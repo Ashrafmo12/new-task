@@ -1,0 +1,113 @@
+body
+{   
+    background-color: rgb(29, 27, 27);
+    flex-flow: column;
+    display: flex;
+}
+.d1
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    border-radius: 20px;
+    background-color: rgb(51, 47, 47);
+}
+.d2
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    left: 25pc;
+    border-radius: 20px;
+    background-color: rgb(51, 47, 47);
+}
+.d3
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    left: 50pc;
+    border-radius: 20px;
+    background-color: rgb(51, 47, 47);
+}
+.d4
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    left: 75pc;
+    border-radius: 20px;
+    background-color: rgb(51, 47, 47);
+}
+
+.d5
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    left: 100pc;
+    border-radius: 20px;
+    background-color: rgb(173, 27, 27);
+}
+.d55
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 40pc;
+    left: 38pc;
+    border-radius: 20px;
+    background-color: rgb(59, 54, 54);
+}
+.d6
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    left: 125pc;
+    border-radius: 20px;
+    background-color: rgb(173, 27, 27);
+}
+.d7
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    left: 150pc;
+    border-radius: 20px;
+    background-color: rgb(173, 27, 27);
+}
+
+.d8
+{
+    position: absolute;
+    width: 20pc;
+    height: 25pc;
+    top: 10pc;
+    left: 175pc;
+    border-radius: 20px;
+    background-color: rgb(173, 27, 27);
+}
+.h
+{
+    position: absolute;
+    background-color: rgb(70, 64, 64);
+    height: 4pc;
+    width: 95pc;
+    border-radius: 10px;
+    
+}
+.a
+{
+    position: absolute;
+    top: 1.5pc;
+    color: black;
+    left: 10pc;
+}
